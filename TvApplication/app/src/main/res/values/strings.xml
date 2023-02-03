@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="save">Save</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="add_this_television_to_favourites">Add this television to favourites</string>
+    <string name="favourite_televisions">Favourite televisions</string>
+    <string name="all_television">All television</string>
+    <string name="watch_television">Watch Television</string>
+    <string name="watch_movies">Watch Movies</string>
+    <string name="watch_youtube">Watch Youtube</string>
+    <string name="settings">Settings</string>
+
+</resources>

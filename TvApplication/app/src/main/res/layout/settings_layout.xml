@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:orientation="vertical">
+
+    <CheckBox
+        android:id="@+id/bgGledai"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginTop="20sp"
+        android:padding="10dp"
+        android:text="https://www.bg-gledai.live/"
+        android:textSize="25sp" />
+
+
+    <CheckBox
+        android:id="@+id/seirSanuk"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginTop="20sp"
+        android:layout_marginBottom="20sp"
+        android:padding="10dp"
+        android:text="https://www.seirsanduk.com/"
+        android:textSize="25sp" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/saveBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:background="@drawable/gradient_src"
+        android:text="@string/save"
+        android:textSize="40sp" />
+
+</LinearLayout>
