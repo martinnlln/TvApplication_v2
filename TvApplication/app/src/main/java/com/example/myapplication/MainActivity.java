@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
     int dbCountSeir;
     int dbCountBgGledai;
     // What the fack
+    // adasdasdasas
     SeirSandk seirSandk;
     BgGledaiTV bgGledaiTV;
     Thread waitThread;
